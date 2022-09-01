@@ -1,5 +1,7 @@
 **유한킴벌리(맘큐) 빅데이터 프로젝트**
 
+-------------------------------------------------
+
 ![image-20220902015856941](../../AppData/Roaming/Typora/typora-user-images/image-20220902015856941.png)
 
 ![image-20220902015904931](../../AppData/Roaming/Typora/typora-user-images/image-20220902015904931.png)
